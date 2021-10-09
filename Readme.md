@@ -1,5 +1,9 @@
 # Adv Auto Filter Bot V2
 
+</a>  
+</p>
+<img src="https://telegra.ph/file/c98e19786c7356eb995b0.jpg"><br>
+
 <p align="center">
   <a href="https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
